@@ -1,0 +1,10 @@
+.ChildComponent{
+    border:2px solid black;
+    border-radius: 9px;
+    padding:px;
+    margin-top: 10px;
+}
+.ChildComponent h2{
+    padding:0px;
+    margin-top: 0px;;
+}
