@@ -1,3 +1,5 @@
+import './Component1.css'
+
 function Component1(){
     return (
         <div className="Component1">

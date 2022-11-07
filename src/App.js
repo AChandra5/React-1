@@ -1,6 +1,7 @@
 /* eslint-disable no-unreachable */
 
 //App.js file in react is the parent file for all the components like body tag in HTML.
+//index.js is the entry point.
 
 import './App.css';
 import Component1 from './Component1';
